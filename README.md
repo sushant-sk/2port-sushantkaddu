@@ -1,2 +1,2 @@
 # 2port-sushantkaddu
-used 
+used .env to hide the necessary credentials.
